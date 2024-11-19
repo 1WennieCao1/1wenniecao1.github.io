@@ -11,7 +11,14 @@ I'm a third year Master student from [College of Optical Science and Engineering
 You can find my [CV](../assets/Curriculum_Vitae.pdf) here.
 
 
+---
+permalink: /
 title: "Publication"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 
