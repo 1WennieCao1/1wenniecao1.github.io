@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wen Cao
+title: "Wen Cao"
 author_profile: true
 redirect_from: 
   - /about/
