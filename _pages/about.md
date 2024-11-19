@@ -15,19 +15,19 @@ Publications
 ======
 Fast autofocusing strategy for phase retrieval based on statistical gradient optimization. \
 **Cao, W.**, Bai, L., Xu, Y., Kuang, C., & Liu, X. (2025).\
-Optics and Lasers in Engineering, 184, 108636. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0143816624006146)
+Optics and Lasers in Engineering, 184, 108636. [[link]](https://doi.org/10.1016/j.optlaseng.2024.108636)
 
 Optimal phase mask design for coherent modulation imaging by deep learning. \
 **Cao, W.**, Bai, L., Tao, S., Tian, Z., Xu, Y., Kuang, C., & Liu, X. (2024). \
-Optics & Laser Technology, 176, 110951. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0030399224004092)
+Optics & Laser Technology, 176, 110951. [[link]](https://doi.org/10.1016/j.optlastec.2024.110951)
 
  Single-shot multi-wavelength coherent diffractive imaging based on sparse representation and modulation optimization.\
  Bai, L., **Cao, W.**, Tao, S., Tian, Z., Xu, Y., Kuang, C., & Liu, X. (2024).\
- Applied Physics Letters, 124(18). [[link]](https://pubs.aip.org/aip/apl/article-abstract/124/18/181112/3289147/Single-shot-multi-wavelength-coherent-diffractive?redirectedFrom=fulltext)
+ Applied Physics Letters, 124(18). [[link]]( https://doi.org/10.1063/5.0194876)
 
 Regularized deconvolution for structured illumination microscopy via accelerated linearized ADMM. \
 Xu, Y., Sun, Y., Wu, H., **Cao, W.**, Bai, L., Tao, S., ... & Liu, X. (2024).\
-Optics & Laser Technology, 169, 110119. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0030399223010125)
+Optics & Laser Technology, 169, 110119. [[link]]( https://doi.org/10.1016/j.optlastec.2023.110119)
 
 
 
