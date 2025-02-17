@@ -14,7 +14,7 @@ You can find my [CV](../assets/CV20250217.pdf) here.
 Publications
 ======
 * Tilt-corrected reflective ptychography based on automatic differentiation. \
-<font color=Blue> **Cao, W.**, Bai, L., Tao, S., Tian, Z., Xu, Y., Kuang, C., & Liu, X (2025).</font>\
+**Cao, W.**, Bai, L., Tao, S., Tian, Z., Xu, Y., Kuang, C., & Liu, X (2025).\
 Optics & Laser Technology, 185, 112419. [[link]](https://doi.org/10.1016/j.optlastec.2025.112419)
 
 * Fast autofocusing strategy for phase retrieval based on statistical gradient optimization. \
